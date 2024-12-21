@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Modelos\spaceship.x</Source>
+      <Name>Modelos\spaceship</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\claud\onedrive\documentos\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Modelos\spaceship.xnb</Output>
+      <Time>2024-11-27T10:19:49.3708394-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\spaceship_0.xml</Key>
+        <Value>2024-11-29T08:58:09.5860584-03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modelos\bixao de 6 patas.fbx</Source>
+      <Name>Modelos\bixao de 6 patas</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\claud\onedrive\documentos\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Modelos\bixao de 6 patas.xnb</Output>
+      <Time>2024-12-02T13:41:17.892297-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\bixao de 6 patas_0.xml</Key>
+        <Value>2024-12-02T13:41:19.3859955-03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modelos\spaceship.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\spaceship_0.xml</Output>
+      <Time>2024-11-27T10:19:49.3708394-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\bixao de 6 patas.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\bixao de 6 patas_0.xml</Output>
+      <Time>2024-12-02T13:41:17.892297-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\untitled.fbx</Source>
+      <Name>Modelos\untitled</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\claud\onedrive\documentos\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Modelos\untitled.xnb</Output>
+      <Time>2024-12-01T11:04:35.6713706-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\untitled_0.xml</Key>
+        <Value>2024-12-01T11:04:37.4770568-03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modelos\untitled.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\untitled_0.xml</Output>
+      <Time>2024-12-01T11:04:35.6713706-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\Itens.fbx</Source>
+      <Name>Modelos\Itens</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\claud\onedrive\documentos\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Modelos\Itens.xnb</Output>
+      <Time>2024-12-03T14:58:41.0056326-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\Itens_0.xml</Key>
+        <Value>2024-12-03T14:58:44.3473996-03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modelos\Itens.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\Itens_0.xml</Output>
+      <Time>2024-12-03T14:58:41.0056326-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\Booma2.fbx</Source>
+      <Name>Modelos\Booma2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\claud\onedrive\documentos\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Modelos\Booma2.xnb</Output>
+      <Time>2024-12-03T14:30:51.7179704-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\Booma2_0.xml</Key>
+        <Value>2024-12-03T14:31:02.7293345-03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modelos\Booma2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\Booma2_0.xml</Output>
+      <Time>2024-12-03T14:30:51.7179704-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Modelos\mapa.fbx</Source>
+      <Name>Modelos\mapa</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\claud\onedrive\documentos\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Modelos\mapa.xnb</Output>
+      <Time>2024-12-06T23:29:02.7817795-03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Modelos\mapa_0.xml</Key>
+        <Value>2024-12-06T23:31:07.9927444-03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Modelos\mapa.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Modelos\mapa_0.xml</Output>
+      <Time>2024-12-06T23:29:02.7817795-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\claud\onedrive\documentos\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\claud\onedrive\documentos\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\claud\onedrive\documentos\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\claud\onedrive\documentos\visual studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2024-11-26T20:59:19.4552427-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
